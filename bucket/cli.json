@@ -1,0 +1,18 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/slackernews/cli/releases/download/v0.1.0/cli_0.1.0_Windows_x86_64.zip",
+            "bin": [
+                "slackernews.exe"
+            ],
+            "hash": "a15f3adbe85899d16ecfcc3cc45ad9919bc1c56f1844c78e5fe870b729e5a852"
+        }
+    },
+    "homepage": "https://slackernews.io",
+    "license": "MIT",
+    "description": "SlackerNews CLI for terminal-based link browsing",
+    "depends": [
+        "git"
+    ]
+}
